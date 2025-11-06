@@ -1,0 +1,21 @@
+{
+    "full_name": "Mohamed Kifayathulla",
+    "name": "Kifayathulla",
+    "current_role": "Security Architecture",
+    "location": "Your Location",
+    "email": "kifayathulla@gmail.com",
+    "linkedin": "linkedin.com/in/kifayathulla",
+    "specialties": [ 
+      "Security Architecture",
+      "Security Engineering",
+      "Security Operations"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Your Degree",
+        "institution": "Your University",
+        "year": "2020"
+      }
+    ]
+  }
